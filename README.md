@@ -287,3 +287,6 @@ Through this project, I practiced:
 Cloud & DevOps Engineer | Azure | Terraform | Infrastructure Automation
 
 GitHub: https://github.com/Dileepmishra33/<Dileep kumar mishra>
+# Azure_Terraform_VM_practice_only
+This branch is for Git branching practice using the full Terraform Landing Zone code.
+up to date for testing
